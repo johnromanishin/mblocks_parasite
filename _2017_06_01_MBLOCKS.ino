@@ -1,4 +1,5 @@
 // Update which_plane_fast
+// UPDATED!
 ////////////////// 2017-03-11 ///
 #define DEBUG                               1 // Setting this to 1 generates lots of debug messages
 #define IS_ROS_ON_AT_BEGIN                  0
